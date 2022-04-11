@@ -1,0 +1,15 @@
+artifact_uri: ./mlflow-run/6724bd35c31c40b2b0e799352be9a455/artifacts
+end_time: 1649611340354
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 6724bd35c31c40b2b0e799352be9a455
+run_uuid: 6724bd35c31c40b2b0e799352be9a455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1649611330492
+status: 3
+tags: []
+user_id: jaime
